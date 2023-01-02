@@ -6,7 +6,3 @@
 | ------- | ------------------ |
 | 11.x.x  | :white_check_mark: |
 | < 11.0  | :x:                |
-
-## Reporting a Vulnerability
-
-https://github.com/sweetalert2/sweetalert2/issues or sweetalert2@gmail.com
